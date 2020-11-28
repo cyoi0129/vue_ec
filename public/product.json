@@ -1,0 +1,122 @@
+[
+  {
+    "pid": 1,
+    "name": "Gundam",
+    "introduce": "Offices parties lasting outward nothing age few resolve. Impression to discretion understood to we interested he excellence. Him remarkably use projection collecting. Going about eat forty world has round miles. Attention affection at my preferred offending shameless me if agreeable. Life lain held calm and true neat she. Much feet each so went no from. Truth began maids linen an mr to after.",
+    "series": "EFSF",
+    "image": "product01.jpg",
+    "price": 3750,
+    "amount": 23,
+    "date": "2020/10/31"
+  },
+  {
+    "pid": 2,
+    "name": "Guncannon",
+    "introduce": "Mind what no by kept. Celebrated no he decisively thoroughly. Our asked sex point her she seems. New plenty she horses parish design you. Stuff sight equal of my woody. Him children bringing goodness suitable she entirely put far daughter.",
+    "series": "EFSF",
+    "image": "product02.jpg",
+    "price": 3000,
+    "amount": 54,
+    "date": "2020/9/30"
+  },
+  {
+    "pid": 3,
+    "name": "Guntank",
+    "introduce": "Civility vicinity graceful is it at. Improve up at to on mention perhaps raising. Way building not get formerly her peculiar. Up uncommonly prosperous sentiments simplicity acceptance to so. Reasonable appearance companions oh by remarkably me invitation understood. Pursuit elderly ask perhaps all.",
+    "series": "EFSF",
+    "image": "product03.jpg",
+    "price": 2500,
+    "amount": 29,
+    "date": "2020/8/31"
+  },
+  {
+    "pid": 4,
+    "name": "GM",
+    "introduce": "Rank tall boy man them over post now. Off into she bed long fat room. Recommend existence curiosity perfectly favourite get eat she why daughters. Not may too nay busy last song must sell. An newspaper assurance discourse ye certainly. Soon gone game and why many calm have.",
+    "series": "EFSF",
+    "image": "product04.jpg",
+    "price": 2000,
+    "amount": 35,
+    "date": "2020/7/31"
+  },
+  {
+    "pid": 5,
+    "name": "ZAKU II R",
+    "introduce": "Oh he decisively impression attachment friendship so if everything. Whose her enjoy chief new young. Felicity if ye required likewise so doubtful. On so attention necessary at by provision otherwise existence direction. Unpleasing up announcing unpleasant themselves oh do on. Way advantage age led listening belonging supposing.",
+    "series": "ZEON",
+    "image": "product05.jpg",
+    "price": 2000,
+    "amount": 23,
+    "date": "2020/6/30"
+  },
+  {
+    "pid": 6,
+    "name": "ZAKU I",
+    "introduce": "So insisted received is occasion advanced honoured. Among ready to which up. Attacks smiling and may out assured moments man nothing outward. Thrown any behind afford either the set depend one temper. Instrument melancholy in acceptance collecting frequently be if.",
+    "series": "ZEON",
+    "image": "product06.jpg",
+    "price": 1000,
+    "amount": 87,
+    "date": "2020/5/31"
+  },
+  {
+    "pid": 7,
+    "name": "ZAKU II",
+    "introduce": "Affronting imprudence do he he everything. Sex lasted dinner wanted indeed wished out law. Far advanced settling say finished raillery. Offered chiefly farther of my no colonel shyness. Such on help ye some door if in. Laughter proposal laughing any son law consider. Needed except up piqued an.",
+    "series": "ZEON",
+    "image": "product07.jpg",
+    "price": 1200,
+    "amount": 16,
+    "date": "2020/4/30"
+  },
+  {
+    "pid": 8,
+    "name": "GOUF",
+    "introduce": "Did shy say mention enabled through elderly improve. As at so believe account evening behaved hearted is. House is tiled we aware. It ye greatest removing concerns an overcame appetite. Manner result square father boy behind its his. Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense.",
+    "series": "ZEON",
+    "image": "product08.jpg",
+    "price": 1400,
+    "amount": 79,
+    "date": "2020/3/31"
+  },
+  {
+    "pid": 9,
+    "name": "DOM",
+    "introduce": "Depart do be so he enough talent. Sociable formerly six but handsome. Up do view time they shot. He concluded disposing provision by questions as situation. Its estimating are motionless day sentiments end. Calling an imagine at forbade. At name no an what like spot. Pressed my by do affixed he studied.",
+    "series": "ZEON",
+    "image": "product09.jpg",
+    "price": 1600,
+    "amount": 78,
+    "date": "2020/2/29"
+  },
+  {
+    "pid": 10,
+    "name": "Z'Gok",
+    "introduce": "Game of as rest time eyes with of this it. Add was music merry any truth since going. Happiness she ham but instantly put departure propriety. She amiable all without say spirits shy clothes morning. Frankness in extensive to belonging improving so certainty.",
+    "series": "ZEON",
+    "image": "product10.jpg",
+    "price": 2200,
+    "amount": 55,
+    "date": "2020/1/31"
+  },
+  {
+    "pid": 11,
+    "name": "Gelgoog",
+    "introduce": "Attention affection at my preferred offending shameless me if agreeable. Life lain held calm and true neat she. Much feet each so went no from. Truth began maids linen an mr to after.",
+    "series": "ZEON",
+    "image": "product11.jpg",
+    "price": 3500,
+    "amount": 30,
+    "date": "2019/12/31"
+  },
+  {
+    "pid": 12,
+    "name": "ZEONG",
+    "introduce": "Their above spoke match ye mr right oh as first. Be my depending to believing perfectly concealed household. Point could to built no hours smile sense.",
+    "series": "ZEON",
+    "image": "product12.jpg",
+    "price": 3750,
+    "amount": 65,
+    "date": "2019/11/30"
+  }
+]
